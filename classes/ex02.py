@@ -30,5 +30,5 @@ def main():
       quadrado.calcularArea()
     else:
       pass
- 
+
 main()
